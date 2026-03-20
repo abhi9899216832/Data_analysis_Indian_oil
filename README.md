@@ -18,4 +18,10 @@ Year.
 # Charts
 - I used KPI cards in the dashboard to display the sum of high, low, open, and close prices.
 - I used different types of charts in the dashboard such as Pie Chart, Donut Chart, Funnel Chart, Bar Chart, and Line Chart.
+# Dashboard
+<img width="607" height="344" alt="Screenshot 2026-03-20 212636" src="https://github.com/user-attachments/assets/bd6b3898-28b9-4657-b7ca-129e8c36d96b" />
+
 - I created visualizations that clearly show the stock price trends on a monthly, quarterly, weekly, and daily basis from 2018 to 2023 It's called decomposition tree chart it is very usefull to clear the perfomance of stocks.
+# Decomposition Tree Chart
+<img width="581" height="334" alt="Screenshot 2026-03-20 212744" src="https://github.com/user-attachments/assets/877f64b9-d222-44f1-9065-b2b9d560c7df" />
+
