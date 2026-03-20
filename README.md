@@ -2,8 +2,10 @@
 ## Project Objective
 the stack holder's want to know about stock price, what is the performance of indian oil share price during 2018-2023.
 
+# Dataset Used
+<a href= "https://github.com/abhi9899216832/Data_analysis_Indian_oil/blob/main/Indian%20Oil%20Data.csv">Data Set</a>
 
-Powerbi project(Dashboard) 
+# Powerbi project(Dashboard) 
 - Dashboard of Stock market price analysis of IOCL for last5yearsbyusingPowerBIandSQL. 
 - Evaluated and customized the data in SQL and integrated in PowerBI to Perform ETL operations for 
 transforming data, taken parameter as open price, close price, high price, low price of stock for every single day 
